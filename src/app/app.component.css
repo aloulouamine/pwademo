@@ -1,0 +1,14 @@
+.example-card {
+  width: 400px;
+  text-align: center;
+}
+
+.card-container {
+  text-align: center;
+}
+
+
+.example-header-image {
+  background-image: url('http://lorempixel.com/400/200/');
+  background-size: cover;
+}
