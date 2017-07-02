@@ -1,13 +1,18 @@
 .example-card {
   width: 400px;
-  text-align: center;
+  height: 400px;
+  margin: 10px;
+  float: left;
 }
 
-.card-container {
-  text-align: center;
+.card-container{
+  display: inline-block;
 }
 
-
+.card-actions{
+  display: block;
+  text-align: end;
+}
 .example-header-image {
   background-image: url('http://lorempixel.com/400/200/');
   background-size: cover;

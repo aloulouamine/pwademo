@@ -5,7 +5,7 @@
     "guid": "7ddace8a-49cd-4af5-8b47-32e85a1a3a50",
     "isActive": false,
     "balance": "$1,649.08",
-    "picture": "http://placehold.it/32x32",
+    "picture": "http://lorempixel.com/600/200/people/",
     "age": 32,
     "eyeColor": "blue",
     "name": {
@@ -62,7 +62,7 @@
     "guid": "a4dec4bb-f53b-4659-9284-03e521d111fd",
     "isActive": false,
     "balance": "$3,311.63",
-    "picture": "http://placehold.it/32x32",
+    "picture": "http://lorempixel.com/600/200/people/",
     "age": 22,
     "eyeColor": "brown",
     "name": {
@@ -119,7 +119,7 @@
     "guid": "7e166dac-2442-413d-b5b8-1114cfd77408",
     "isActive": false,
     "balance": "$2,185.74",
-    "picture": "http://placehold.it/32x32",
+    "picture": "http://lorempixel.com/600/200/people/",
     "age": 23,
     "eyeColor": "blue",
     "name": {
@@ -176,7 +176,7 @@
     "guid": "67dcb0e9-1fb3-498d-a292-389787378384",
     "isActive": false,
     "balance": "$2,753.27",
-    "picture": "http://placehold.it/32x32",
+    "picture": "http://lorempixel.com/600/200/people/",
     "age": 20,
     "eyeColor": "green",
     "name": {
@@ -233,7 +233,7 @@
     "guid": "0a6a20af-99fe-469a-a17b-281721f5b419",
     "isActive": true,
     "balance": "$3,655.26",
-    "picture": "http://placehold.it/32x32",
+    "picture": "http://lorempixel.com/600/200/people/",
     "age": 27,
     "eyeColor": "green",
     "name": {
@@ -290,7 +290,7 @@
     "guid": "ff9abfe6-6c17-4767-87c8-f86754af3f08",
     "isActive": true,
     "balance": "$2,707.63",
-    "picture": "http://placehold.it/32x32",
+    "picture": "http://lorempixel.com/600/200/people/",
     "age": 22,
     "eyeColor": "blue",
     "name": {
@@ -347,7 +347,7 @@
     "guid": "a523d674-ef65-4f24-9e9e-61798ea39f64",
     "isActive": false,
     "balance": "$3,220.49",
-    "picture": "http://placehold.it/32x32",
+    "picture": "http://lorempixel.com/600/200/people/",
     "age": 39,
     "eyeColor": "blue",
     "name": {
@@ -404,7 +404,7 @@
     "guid": "a9e0a96c-7dae-404c-84fc-ceacd5670b35",
     "isActive": false,
     "balance": "$2,537.87",
-    "picture": "http://placehold.it/32x32",
+    "picture": "http://lorempixel.com/600/200/people/",
     "age": 22,
     "eyeColor": "brown",
     "name": {
@@ -461,7 +461,7 @@
     "guid": "385a5984-c93f-4ed3-ac50-18170cf96e47",
     "isActive": true,
     "balance": "$2,748.69",
-    "picture": "http://placehold.it/32x32",
+    "picture": "http://lorempixel.com/600/200/people/",
     "age": 26,
     "eyeColor": "brown",
     "name": {

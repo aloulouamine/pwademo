@@ -1,19 +1,20 @@
 <!--The content below is only a placeholder and can be replaced.-->
 <div class="card-container">
-  <md-card class="example-card">
+
+  <h1> Contact list : </h1>
+  <md-card *ngFor="let person of persons" class="example-card">
     <md-card-header>
       <div md-card-avatar class="example-header-image"></div>
-      <md-card-title>Shiba Inu</md-card-title>
-      <md-card-subtitle>Dog Breed</md-card-subtitle>
+      <md-card-title>{{person.name.first}} {{person.name.last}}</md-card-title>
+      <md-card-subtitle>{{person.email}}</md-card-subtitle>
     </md-card-header>
-    <img md-card-image src="http://lorempixel.com/400/200/">
+    <img md-card-image src="{{person.picture}}{{person._id}}">
     <md-card-content>
       <p>
-        The Shiba Inu is the smallest of the six original and distinct spitz breeds of dog from Japan. A small, agile dog that copes
-        very well with mountainous terrain, the Shiba Inu was originally bred for hunting.
+        {{person.about}}
       </p>
     </md-card-content>
-    <md-card-actions>
+    <md-card-actions class="card-actions">
       <button md-button>LIKE</button>
       <button md-button>SHARE</button>
     </md-card-actions>
